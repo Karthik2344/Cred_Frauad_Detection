@@ -14,7 +14,6 @@ This project aims to detect fraudulent credit card transactions to protect custo
 ## Libraries Used
 - `pandas`
 - `matplotlib`
-- `seaborn`
 - `scikit-learn`
 
 ## Machine Learning Algorithms
