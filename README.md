@@ -19,9 +19,6 @@ This project aims to detect fraudulent credit card transactions to protect custo
 ## Machine Learning Algorithms
 - **Logistic Regression**
 
-## Evaluation Metric
-- Due to the class imbalance, model performance is measured using the Area Under the Precision-Recall Curve (AUPRC), which is more meaningful than traditional accuracy metrics.
-
 ## Results
 - The models were trained and evaluated using the AUPRC metric, focusing on identifying fraudulent transactions accurately.
 
